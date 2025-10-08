@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 I'm a Computer Science Engineering student with a strong passion for software development and problem-solving. <br>Primarily focused on backend development, with experience in building efficient, scalable systems and APIs. <br>Currently expanding full-stack skills through the development of a complete web application, combining backend logic with modern frontend technologies. <br>Driven by curiosity, continuous learning, and the desire to create impactful digital solutions.
 
 
